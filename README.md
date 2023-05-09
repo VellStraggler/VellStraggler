@@ -1,5 +1,4 @@
-![game engine photo here](textgameengine-examplephoto.png)
-### Welcome to My Page! 👋👋
+![Welcome to my GitHub Page!](textengine-welcome.png)
 - I am a **full-stack developer** presently taking the backend developer program from the Bloomtech Institute of Technology.
 - got started in Scratch (haha) but moved to **Java** in high school, **Python**, C++, and **Javascript** in college, and then more Java and JS through Bloomtech.
 - I've been trained to use **AWS Services** such as the AWS Lambda, API, DynamoDB, CloudFormation, And S3 services.
